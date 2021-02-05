@@ -1,3 +1,6 @@
+## resultado final do meu projeto:
+![alt text](trybeWallet.png)
+
 ### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
